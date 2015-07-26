@@ -1,6 +1,6 @@
 # start-project
-Simples e Rápido
+<b>Simples e Rápido</b>
 
-1º sudo npm install -g gulp
-2º sudo npm install
-3º gulp
+<b>1º</b> sudo npm install -g gulp</br>
+<b>2º</b> sudo npm install</br>
+<b>3º</b> gulp
